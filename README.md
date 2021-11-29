@@ -1,4 +1,4 @@
-🙋‍♂️ My name is Leopold - 📕 Interested in software development - 🎒 Currently at school
+🙋‍♂️ My name is Leopold - 📕 Interested in software development - 🎒 Currently in school
 
 # About me
 
