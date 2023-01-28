@@ -2,4 +2,4 @@
 
 # About me
 
-#
+# I'm currently learning html, css and python and I'll bring you along as I make progress.
