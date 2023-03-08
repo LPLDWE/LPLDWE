@@ -1,7 +1,7 @@
 🎒 Currently in school - 🌱 Learning Python and Java
 
 
-# Hi there, I'm Leopold👋 
+# Hi, I'm Leopold👋 
 
 ### Interested in software development 
 
