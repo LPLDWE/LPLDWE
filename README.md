@@ -1,4 +1,4 @@
-# Hi, I'm Leopold👋 - 🌱 Learning Python and Java
+# Hi, I'm Leopold👋 - Learning Python and Java
 
 ### Interested in software development 
 
