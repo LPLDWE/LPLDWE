@@ -6,7 +6,7 @@
 ### Interested in software development 
 
 - 🔭 Looking for opportunities to learn new
-- 💼 Working on a chess game inclunding a chess engine
+- 💼 Working on a Blog for everybody
 - 🥅 2023 Goals: Learn more about data processing
 
 ### Languages and Tools:
