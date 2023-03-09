@@ -1,4 +1,4 @@
-🎒 Currently in school - 🌱 Learning Python and Java
+🌱 Learning Python and Java
 
 
 # Hi, I'm Leopold👋 
