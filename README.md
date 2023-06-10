@@ -1,10 +1,10 @@
-# Hi, I'm Leopold👋 - Learning Python and C++
+# Hi, I'm Leopold👋 
 
-### Interested in software development 
+### Interested in Computer Science
 
-- 🔭 Looking for opportunities to learn new
-- 💼 Working on a Blog for everybody
-- 🥅 2023 Goals: Learn more about data processing
+- 🔭 Looking for opportunities for building new Projects  
+- 💼 Working on ?
+- 🥅 2023 Goals: Learn more about 
 
 ### Languages and Tools:
 
