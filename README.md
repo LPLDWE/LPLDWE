@@ -3,7 +3,7 @@
 ### Interested in Computer Science
 
 - 🔭 Looking for opportunities for building new Projects  
-- 💼 Working on ?
+- 💼 Working on MentalMath
 - 🥅 2023 Goals: Learn more about 
 
 ### Languages and Tools:
