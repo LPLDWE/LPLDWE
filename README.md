@@ -1,3 +1,3 @@
-# Hi, I'm Leopold👋 
+# Hi, I'm Leopold
 
 
