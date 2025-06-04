@@ -9,8 +9,4 @@ Here are some things I’ve been working on:
 - 🔗 [**Chesstreak**](#) – Offline chess tactic app.
 
 
-## 📫 Let's Connect
-
-- 📬 Email: leoweise003@gmail.com  
-
 
