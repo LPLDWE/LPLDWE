@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building things that 
 
 Here are some things I’ve been working on:
 
-- 🔗 [**Chesstreak**](#) – Offline chess tactic app.
+- 🔗 [**Chesstreak**](https://github.com/LPLDWE/Chesstreak) – Offline chess tactic app.
 
 
 
